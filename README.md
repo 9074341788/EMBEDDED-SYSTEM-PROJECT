@@ -21,9 +21,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No OF ACTIVITY | 
--------|---------|----------------|----------------|---------------|-------------|--------------
-314679 | SHUBHAM KUMAR  | HEAT CONTROLLER   |  YES    | yes     |4 | 4
+PS No.   |  Name           |    Features      | Issuess Raised   |Issues Resolved|No OF ACTIVITY | 
+------  -|---------|----------------|----------------             |---------------|-------------|--------------
+314679  | SHUBHAM KUMAR    | HEAT CONTROLLER   |  YES              | yes     |4   |     4
 
 
 
